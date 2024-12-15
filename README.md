@@ -1,5 +1,4 @@
-Here’s a professional and comprehensive **README** file for the updated traffic simulation project:
-
+Simple DT for ITS
 ---
 
 # Traffic Simulation and Digital Twin
